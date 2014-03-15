@@ -1,0 +1,5 @@
+C:\Users\eeeeeee\Documents\Visual Studio 2012\Projects\Remover\Remover\bin\Debug\Remover.exe
+C:\Users\eeeeeee\Documents\Visual Studio 2012\Projects\Remover\Remover\bin\Debug\Remover.pdb
+C:\Users\eeeeeee\Documents\Visual Studio 2012\Projects\Remover\Remover\obj\Debug\Remover.csprojResolveAssemblyReference.cache
+C:\Users\eeeeeee\Documents\Visual Studio 2012\Projects\Remover\Remover\obj\Debug\Remover.exe
+C:\Users\eeeeeee\Documents\Visual Studio 2012\Projects\Remover\Remover\obj\Debug\Remover.pdb
